@@ -2,4 +2,6 @@ Team notes line 1
 Nick added to this file on this line
 This is Madison's note.
 Line 4 from G
-Smoke on the WaterMadi's second note.
+Smoke on the Water
+Madi's second note.
+test last line in vscode
